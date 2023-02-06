@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "something new",
+      "body": "its the newest blog that I made after deleting all the blogs ....",
+      "author": "mario",
+      "id": 1
+    },
+    {
+      "title": "My First Blog",
+      "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Non beatae error amet impedit, perspiciatis veniam id minima, deleniti facilis odio, recusandae ab assumenda hic exercitationem nisi ut eos alias omnis. Eligendi commodi dolorem similique delectus praesentium id quo reprehenderit. Aut, facilis fugiat tempora sint, vero rerum corrupti eos quisquam laudantium alias nihil nesciunt illo at quae eveniet vel earum minima, eligendi aspernatur incidunt. Nemo sequi quos cupiditate temporibus autem et cumque eum, dignissimos qui, nostrum ipsam magni error at fuga reiciendis consequuntur hic architecto repudiandae assumenda. Sunt cupiditate animi voluptatum, fuga aspernatur optio facilis necessitatibus quidem non, quasi maxime voluptates!",
+      "author": "marion",
+      "id": 2
+    },
+    {
+      "title": "Opening Party!",
+      "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Non beatae error amet impedit, perspiciatis veniam id minima, deleniti facilis odio, recusandae ab assumenda hic exercitationem nisi ut eos alias omnis. Eligendi commodi dolorem similique delectus praesentium id quo reprehenderit. Aut, facilis fugiat tempora sint, vero rerum corrupti eos quisquam laudantium alias nihil nesciunt illo at quae eveniet vel earum minima, eligendi aspernatur incidunt. Nemo sequi quos cupiditate temporibus autem et cumque eum, dignissimos qui, nostrum ipsam magni error at fuga reiciendis consequuntur hic architecto repudiandae assumenda. Sunt cupiditate animi voluptatum, fuga aspernatur optio facilis necessitatibus quidem non, quasi maxime voluptates!",
+      "author": "yoshi",
+      "id": 3
+    }
+  ]
+}
